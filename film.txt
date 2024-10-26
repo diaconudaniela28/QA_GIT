@@ -1,0 +1,54 @@
+{
+	"film": {
+		"title": "Black Mirror",
+		"tagline": "The future is bright",
+		"genre": "Series",
+		"series_genre": ["Science fiction", "Thriller", "Drama"],
+		"collections": ["Netflix", "Award-Winning"],
+		"release_year": "2011",
+	    "country": "United Kingdom",
+		"duration": "43 minutes",
+		"directors": ["Toby Haynes", "Owen Harris", "Carl Tibbetts"],
+		"number_of_seasons": 6,
+		"series": {
+			"first_season": [
+				{"series_number": 1, "title": "The National Anthem"},
+				{"series_number": 2, "title": "Fifteen Million Merits"},
+				{"series_number": 3, "title": "The Entire History of You"}
+			],
+			"second_season": [
+				{"series_number": 1, "title": "Be Right Back"},
+				{"series_number": 2, "title": "White Bear"},
+				{"series_number": 3, "title": "The Waldo Moment"}
+			],
+			"third_season": [
+				{"series_number": 1, "title": "Nosedive"},
+				{"series_number": 2, "title": "Playtest"},
+				{"series_number": 3, "title": "Shut Up and Dance"},
+				{"series_number": 4, "title": "San Junipero"},
+				{"series_number": 5, "title": "Men Against Fire"},
+				{"series_number": 6, "title": "Hated in the Nation"}
+			],
+			"fourth_season": [
+				{"series_number": 1, "title": "USS Callister"},
+				{"series_number": 2, "title": "Arkangel"},
+				{"series_number": 3, "title": "Crocodile"},
+				{"series_number": 4, "title": "Hang the DJ"},
+				{"series_number": 5, "title": "Metalhead"},
+				{"series_number": 6, "title": "Black Museum"}
+			],
+			"fifth_season": [
+				{"series_number": 1, "title": "Striking Vipers"},
+				{"series_number": 2, "title": "Smithereens"},
+				{"series_number": 3, "title": "Rachel, Jack and Ashley, Too"}
+			],
+			"sixth_season": [
+				{"series_number": 1, "title": "Joan Is Awful"},
+				{"series_number": 2, "title": "Loch Henry"},
+				{"series_number": 3, "title": "Beyond the Sea"},
+				{"series_number": 4, "title": "Mazey Day"},
+				{"series_number": 5, "title": "Demon 79"}
+			]
+		}
+	}
+}
